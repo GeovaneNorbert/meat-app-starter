@@ -1,5 +1,5 @@
-export interface Restaurant{
-    
+export interface Restaurant {   
+
 id: string
 name: string
 category: string
